@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gabferr
-- 👀 I’m interested in learn...
-- 🌱 I’m currently learning phyton...
-- 💞️ I’m looking to collaborate on good projects...
-- 📫 How to reach me gabrielferrandin@hotmail.com...
+Bem Vindo ao meu perfil!
 
-<!---
-gabferr/gabferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Gabriel!
+
+Estou estudando.
+
+python, java, html, css e sql
+
